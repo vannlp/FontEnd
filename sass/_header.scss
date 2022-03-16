@@ -1,0 +1,12 @@
+.header {
+  @include flex-center;
+  background: #000;
+  width: 100%;
+  &-wrapper {
+    color: aqua;
+    font-size: large;
+  }
+  &-p {
+    color: $color-white;
+  }
+}

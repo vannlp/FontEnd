@@ -1,0 +1,21 @@
+.container {
+  max-width: 1200px;
+  margin: auto;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #000;
+  width: 100%;
+}
+.header-wrapper {
+  color: aqua;
+  font-size: large;
+}
+.header-p {
+  color: #fff;
+}
+
+/*# sourceMappingURL=app.css.map */
